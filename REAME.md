@@ -1,1 +1,6 @@
-Nawwar Diab
+# **Our Team:**
+
+- Vadim Schebanech
+
+- Nawwar Diab
+
